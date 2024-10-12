@@ -1,0 +1,172 @@
+body {
+    background-color: #DDEBF0;
+    height: 2800px;
+}
+
+.bulet {
+    position: absolute;
+    width: 444px;
+    height: 430px;
+    background: #97CBDC;
+    filter: blur(150px);
+}
+
+.portfolio {
+    align-items: center;
+    position: absolute;
+    width: 934.5px;
+    height: 597px;
+    left: calc(50% - 934.5px/2 + 68.75px);
+    top: 10px;
+}
+
+.kotak {
+    position: absolute;
+    width: 900px;
+    height: 424px;
+    left: calc(50% - 900px/2 - 2px);
+    top: 800px;
+    background: #DDEBF0;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
+
+table.tabel {
+    border: none;
+    width: 100%;
+}
+
+td.tabel1 {
+    width: 50%;
+}
+
+.ilus2 {
+    height: 444px;
+    width: 318px;
+    position: absolute;
+    top: 50px;
+}
+
+h1 {
+    position: absolute;
+    top: 60px;
+    font-family: 'Lilita One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 73px;
+    color: #063E6E;
+}
+
+p {
+    position: absolute;
+    width: 360px;
+    top: 140px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    color: #063E6E;
+}
+
+.portCard {
+    position: absolute;
+    top: 1400px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+th {
+    padding: 30px;
+}
+
+.card1,
+.card3,
+.card4,
+.card5 {
+    width: 200px;
+    height: 200px;
+    background: #DDEBF0;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.card2 {
+    width: 466px;
+    height: 450px;
+    background: #DDEBF0;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    justify-content: center;
+}
+
+#img1,
+#img3,
+#img4,
+#img5 {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+#img2 {
+    border-radius: 20px;
+    width: 466px;
+    height: 250px;
+    align-items: center;
+}
+
+.button {
+    position: absolute;
+
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: #063E6E;
+    color: #DDEBF0;
+}
+
+.description {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    line-height: 27px;
+    text-align: center;
+    color: #063E6E;
+}
+
+.end {
+    position: absolute;
+    top: 2200px;
+}
+
+.terimakasih {
+    position: absolute;
+    width: 480px;
+    height: 226px;
+    left: 467px;
+}
+
+.palet {
+
+    position: absolute;
+    width: 260px;
+    height: 41px;
+    left: 600px;
+    top: 350px;
+}
+
+h2 {
+
+    position: absolute;
+    width: 200px;
+    height: 27px;
+    left: 630px;
+    top: 400px;
+    font-family: 'Lilita One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+    color: #063E6E;
+}
